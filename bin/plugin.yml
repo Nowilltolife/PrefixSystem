@@ -1,0 +1,13 @@
+name: PrefixSystem
+version: 1.4.4v
+main: com.nowilltolife.ranksystem.Main
+author: Nowilltolife
+softdepend: [PlaceholderAPI, SuperVanish, LuckPerms]
+commands:
+   prefixsystem:
+    description: Main access to the prefixsystem
+   reconnectmysql:
+    description: Rconnect to database (debug purposes only)
+   prefixplayer:
+    description: main access to the player system
+api: [null]
